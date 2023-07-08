@@ -19,7 +19,11 @@ We want to be able to track, analyze and optimize costs so cost visibility is of
  This is a list of the project's cloud resources and their associated costs, this data was provided using the  [AWS Pricing Calculator](https://calculator.aws/#/estimate?id=718e3e6ca17e8e3be0ef4dfd6bf31f2243438371).
 - AWS was the choice cloud service provider because it has a free tier which will cover some of the services we will be using thereby optimizing cost for the project.
 - The cost estimates for the services used on AWS are shown below:
+
+![](./assets/aws-budget-1.png)
  
+![](./assets/aws-budget-2.png)
+
 ## FinOps Tools and Resources
 These are the tools and resources that the project uses to manage its cloud costs. 
 1. AWS Cost Explorer
