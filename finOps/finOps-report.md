@@ -5,10 +5,19 @@
 1.	Complete the project within the allocated monthly budget of $100.
 2.	Minimize cost overruns and avoid unnecessary expenses.
 
+## FinOps Tools and Resources
+These are the tools and resources that the project uses to manage its cloud costs. 
+1. AWS Cost Explorer
+2. AWS Budgets
+3. AWS Cost Anomaly Detection
+4. AWS Cost and Usage Report
+5. AWS Pricing Calculator
+6. AWS Cost Allocation Tags
+
 ## FinOps Policies and Procedures
 <b>Cost Tracking and Cost Visibility:</b>
 
-We want to be able to track, analyze and optimize costs so cost visibility is of utmost importance to our team. This was achieved using tools such as AWS Cost Explorer and AWS Cost Anomaly Detection. AWS provided comprehensive insights into our AWS costs and usage including forecasting future costs and usage.  With AWS Cost Anomaly Detection, we will be able to receive alerts when unusual spend is detected, this will help us catch unintentional spend early. We opted for email alerts to ensure zero spend.
+We want to be able to track, analyze and optimize costs, so cost visibility is of utmost importance to our team. This was achieved using tools such as AWS Cost Explorer and AWS Cost Anomaly Detection. AWS Cost Explorer provided comprehensive insights into our AWS costs and usage including forecasting future costs and usage.  With AWS Cost Anomaly Detection, we will be able to receive alerts when unusual spend is detected, this will help us catch unintentional spend early. We opted for email alerts to ensure zero spend.
 
 <b>Savings Measurement:</b>
 -  Cost Allocation Tags were used in attributing expenses accurately and identifying areas of high spending.
@@ -24,14 +33,6 @@ We want to be able to track, analyze and optimize costs so cost visibility is of
  
 ![](./assets/aws-budget-2.png)
 
-## FinOps Tools and Resources
-These are the tools and resources that the project uses to manage its cloud costs. 
-1. AWS Cost Explorer
-2. AWS Budgets
-3. AWS Cost Anomaly Detection
-4. AWS Cost and Usage Report
-5. AWS Pricing Calculator
-6. AWS Cost Allocation Tags
  
 ## FinOps Best Practices
  This includes a list of the best practices that the project follows to manage its cloud costs.
