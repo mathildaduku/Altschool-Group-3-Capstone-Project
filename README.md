@@ -64,3 +64,4 @@ The architecture of the infrastructure that will host this application on AWS wi
 
 Overall, the frontend and backend components work together to provide a seamless user experience, with the frontend handling the UI and user interactions, while the backend manages the business logic, data storage, and communication with the frontend.
 
+![](./assets/architectural-diagram.jpeg)
