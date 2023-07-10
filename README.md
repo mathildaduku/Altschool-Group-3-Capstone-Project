@@ -50,7 +50,7 @@ By achieving these goals, our team will be able to deliver a highly reliable and
 6. npm i -g n
 7. n 12 (exit and log back in to get the node 12 version)
 8. clone the repo
-9. cd to project
+9. cd source code
 10. npm i -g yarn
 11. yarn
 12. node script.js
