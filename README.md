@@ -41,7 +41,22 @@ h. Docker: Utilize Docker to containerize the application, providing portability
 
 By achieving these goals, our team will be able to deliver a highly reliable and efficient Todo application, adapt to changing requirements with ease, and provide an exceptional user experience.
 
+### Installation
+1. Set up your local machine
+2. apt update
+3. apt install nginx -y
+4. apt install mongodb -y
+5. apt install npm
+6. npm i -g n
+7. n 12 (exit and log back in to get the node 12 version)
+8. clone the repo
+9. cd to project
+10. npm i -g yarn
+11. yarn
+12. node script.js
+13. access the application in your web broswer using IPaddr:13371
 
+    
 ### Architecture Diagram:
 The architecture of the infrastructure that will host this application on AWS will consist of a Kubernetes Cluster with 3 pods. The architectural diagram consists of the following components:
 
