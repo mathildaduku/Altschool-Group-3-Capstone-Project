@@ -41,7 +41,7 @@ h. Docker: Utilize Docker to containerize the application, providing portability
 
 By achieving these goals, our team will be able to deliver a highly reliable and efficient Todo application, adapt to changing requirements with ease, and provide an exceptional user experience.
 
-### Installation
+### Installation:
 1. Set up your local machine
 2. apt update
 3. apt install nginx -y
